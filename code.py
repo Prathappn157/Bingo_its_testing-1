@@ -1,0 +1,1 @@
+print("I Am prathap RN and i did mtech and i am a data science engineer with having 22 Lacks CTC")
